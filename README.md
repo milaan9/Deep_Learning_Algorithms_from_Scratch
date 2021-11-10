@@ -53,42 +53,18 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | 4.2 **[Central_Limit_Theorem](XXX)** |
 |    | 4.3 **[Hypothesis_Testing](XXX)** |
 |    | 4.4 **[Chi_Square_Testing](XXX)** |
-| 05 | **[Python_for_Machine_Learning](XXX)** |
-|    | 5.1 **[Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.1 → **[Simple_Linear_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.2 → **[Multiple_Linear_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.3 → **[Polynomial_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.4 → **[Gradient_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.5 → **[Support_Vector_Regression_(SVR)](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.6 → **[Decision_Tree_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.7 → **[Random_Forest_Regression](XXX)** |
-|    | 5.2 **[Classification](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.1 → **[Logistic_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.2 → **[KNN_(K-Nearest_Neighbours)](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.3 → **[Support_Vector_Machines_(SVM)](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.4 → **[Kernel_SVM](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.5 → **[Naive_Bayes](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.6 → **[Decision_Tree_Classifiers](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.7 → **[Random_Forest_Classifiers](XXX)** |
-|    | 5.3 **[Clustering](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.3.1 → **[K-Means_Clustering](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.3.2 → **[Hierarchical_Clustering](XXX)** |
-|    | 5.4 **[Principal_Component_Analysis_(PCA)](XXX)** |
-|    | 5.5 **[Hyperparameter_Tuning](XXX)** |
-|    | 5.6 **[Association_Rule_Learning](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.6.1 → **[Apriori](XXX)** |
-| 06 | **[▶ Case_Studies](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.1 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.2 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.3 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.4 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.5 ➜ **[XXX](XXX)** |
 | 07 | **[Python_for_Deep_Learning](XXX)** |
 |    | 7.1 **[Deep_Learning_Introduction](XXX)** |
 |    | 7.2 **[Artifial_Neural_Networks_(ANN)](XXX)** |
 |    | 7.3 **[Deep_NN_with_TensorFlow_Keras](XXX)** |
 |    | 7.4 **[Convolutional_Neural_Networks_(CNN) ](XXX)** |
 |    | 7.5 **[CNN_with_TensorFlow_Keras](XXX)** |
+| 08 | **[▶ Case_Studies](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.1 ➜ **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.2 ➜ **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.3 ➜ **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.4 ➜ **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.5 ➜ **[XXX](XXX)** |
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Python_Deep_Learning/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
