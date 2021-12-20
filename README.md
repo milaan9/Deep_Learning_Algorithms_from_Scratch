@@ -18,55 +18,23 @@
 <a href="https://githubtocolab.com/milaan9/Deep_Learning_Algorithms_from_Scratch"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
 
-# Python_Deep_Learning
+# Deep_Learning_Algorithms_from_Scratch
 
 ## Introduction 👋
 
-### What is NumPy?
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
-
-Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replacement to MATLAB as Python is more complete and easier programming language than MATLAB.
-
+This repository explores the variety of techniques anf alorithm commonly used in deep learning and the implementation in PYTHON.
 ---
 
 ## Table of contents 📋
 
-| **No.** | **Name** | 
-| ------- | -------- | 
-| 01 | **[Python_Programming](XXX)** |
-|    | 1.1 **[Python_Introduction](XXX)** |
-|    | 1.2 **[1.2 Python_Data_Types](XXX)** |
-|    | 1.3 **[Python_Flow_Control](XXX)** |
-|    | 1.4 **[Python_Functions](XXX)** |
-|    | 1.5 **[Python_Advance](XXX)** |
-| 02 | **[Python_for_Data_Science](XXX)** |
-|    | 2.1 **[Python_Numpy](XXX)** |
-|    | 2.2 **[Python_Pandas](XXX)** |
-|    | 2.3 **[Exploratory_Data_Analysis](XXX)** |
-| 03 | **[Python_for_Data_Preprocessing](XXX)** |
-|    | 3.1 **[Importing_the_dataset](XXX)** |
-|    | 3.2 **[Dealing_with_missing_data](XXX)** |
-|    | 3.3 **[Splitting_the_data_into_test_set_and_training_set](XXX)** |
-|    | 3.4 **[Feature_Scalling](XXX)** |
-| 04 | **[Python_Statistics_for_Data_Science](XXX)** |
-|    | 4.1 **[Normal_Distribution](XXX)** |
-|    | 4.2 **[Central_Limit_Theorem](XXX)** |
-|    | 4.3 **[Hypothesis_Testing](XXX)** |
-|    | 4.4 **[Chi_Square_Testing](XXX)** |
-| 07 | **[Python_for_Deep_Learning](XXX)** |
-|    | 7.1 **[Deep_Learning_Introduction](XXX)** |
-|    | 7.2 **[Artifial_Neural_Networks_(ANN)](XXX)** |
-|    | 7.3 **[Deep_NN_with_TensorFlow_Keras](XXX)** |
-|    | 7.4 **[Convolutional_Neural_Networks_(CNN) ](XXX)** |
-|    | 7.5 **[CNN_with_TensorFlow_Keras](XXX)** |
-| 08 | **[▶ Case_Studies](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.1 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.2 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.3 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.4 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.5 ➜ **[XXX](XXX)** |
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
 
-These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Python_Deep_Learning/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Deep_Learning_Algorithms_from_Scratch/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
 ---
 
