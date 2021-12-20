@@ -1,21 +1,21 @@
 <p align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
-<a href="https://github.com/milaan9/Python_Deep_Learning/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Python_Deep_Learning.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
-<a href="https://github.com/milaan9/Python_Deep_Learning/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/Python_Deep_Learning.svg?colorB=teal&style=flat" /></a> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2FPython_Deep_Learning&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-<a href="https://github.com/milaan9/Python_Deep_Learning/stargazers"><img src="https://img.shields.io/github/stars/milaan9/Python_Deep_Learning.svg?colorB=1a53ff" alt="Stars Badge"/></a>
-<a href="https://github.com/milaan9/Python_Deep_Learning/network/members"><img src="https://img.shields.io/github/forks/milaan9/Python_Deep_Learning" alt="Forks Badge"/> </a>
-<img src="https://img.shields.io/github/repo-size/milaan9/Python_Deep_Learning.svg?colorB=CC66FF&style=flat" alt="Size"/>
-<a href="https://github.com/milaan9/Python_Deep_Learning/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/Python_Deep_Learning.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/milaan9/Python_Deep_Learning/issues"><img src="https://img.shields.io/github/issues/milaan9/Python_Deep_Learning.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/milaan9/Python_Deep_Learning.svg?colorB=996600&style=flat" alt="Language"/></a> 
-<a href="https://github.com/milaan9/Python_Deep_Learning/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
+<a href="https://github.com/milaan9/Python_Deep_Learning/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
+<a href="https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=teal&style=flat" /></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2FDeep_Learning_Algorithms_from_Scratch&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+<a href="https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/stargazers"><img src="https://img.shields.io/github/stars/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=1a53ff" alt="Stars Badge"/></a>
+<a href="https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/network/members"><img src="https://img.shields.io/github/forks/milaan9/Deep_Learning_Algorithms_from_Scratch" alt="Forks Badge"/> </a>
+<img src="https://img.shields.io/github/repo-size/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=CC66FF&style=flat" alt="Size"/>
+<a href="https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/issues"><img src="https://img.shields.io/github/issues/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
+<img src="https://img.shields.io/github/languages/top/milaan9/Deep_Learning_Algorithms_from_Scratch.svg?colorB=996600&style=flat" alt="Language"/></a> 
+<a href="https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 
 <p align="center"> 
-<a href="https://mybinder.org/v2/gh/milaan9/Python_Deep_Learning/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
-<a href="https://githubtocolab.com/milaan9/Python_Deep_Learning"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
+<a href="https://mybinder.org/v2/gh/milaan9/Deep_Learning_Algorithms_from_Scratch/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+<a href="https://githubtocolab.com/milaan9/Deep_Learning_Algorithms_from_Scratch"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
 
 # Python_Deep_Learning
@@ -76,13 +76,13 @@ These are online **read-only** versions. However you can **`Run ▶`**  all the 
 
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-Go [**`here`**](https://github.com/milaan9/Python_Deep_Learning) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+Go [**`here`**](https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 ---
 
 ### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
-1. Go [**`here`**](https://github.com/milaan9/Python_Deep_Learning) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/Python_Deep_Learning/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/milaan9/Python_Deep_Learning) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/archive/refs/heads/main.zip).
 
     ![Download ZIP](img/dnld_rep.png)
 
@@ -102,11 +102,11 @@ If you have git and you know how to use it, you can also clone the repository in
 
 I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
-See [github's contributors page](https://github.com/milaan9/Python_Deep_Learning/graphs/contributors) for details.
+See [github's contributors page](https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/graphs/contributors) for details.
 
-If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/Python_Deep_Learning/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
-If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/Python_Deep_Learning).
+If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/Deep_Learning_Algorithms_from_Scratch).
 
 ---
 
