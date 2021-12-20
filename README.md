@@ -22,7 +22,8 @@
 
 ## Introduction 👋
 
-This repository explores the variety of techniques anf alorithm commonly used in deep learning and the implementation in PYTHON.
+This repository explores the variety of techniques anf alorithm commonly used in deep learning and the implementation in MATLAB and PYTHON.
+
 ---
 
 ## Table of contents 📋
