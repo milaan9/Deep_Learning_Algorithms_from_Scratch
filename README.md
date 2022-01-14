@@ -37,6 +37,7 @@ Week 3
 Week 4
 
 Week 5
+
 Week 6
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Deep_Learning_Algorithms_from_Scratch/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
